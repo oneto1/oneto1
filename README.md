@@ -12,7 +12,7 @@ Other 🕓 3h24m █████████████████████
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 42 hrs 12 mins
+🎮 Team Fortress 2                   🕘 42 hrs 11 mins
 💻 Wallpaper Engine                  🕘 2 hrs 17 mins
 🎮 Mass Effect™: Andromeda           🕘 1 hrs 29 mins
 🎮 Life is Strange™                  🕘 1 hrs 24 mins
