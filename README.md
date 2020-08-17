@@ -16,8 +16,7 @@ Bash       🕓 4m    ▌░░░░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 44 hrs 40 mins
-🎮 Life is Strange™                  🕘 1 hrs 24 mins
+🎮 Team Fortress 2                   🕘 41 hrs 8 mins
 🎮 CS2D                              🕘 0 hrs 1 mins
 🎮 Iron Snout                        🕘 0 hrs 49 mins
 ```
