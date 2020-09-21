@@ -16,7 +16,7 @@ Other 🕓 0s  ░░░░░░░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 31 hrs 53 mins
+🎮 Team Fortress 2                   🕘 31 hrs 34 mins
 🔫 Counter-Strike: Global Offensive  🕘 0 hrs 16 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 ```
