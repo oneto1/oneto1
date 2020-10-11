@@ -13,9 +13,8 @@ Go 🕓 0s  ░░░░░░░░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 31 hrs 43 mins
+🎮 Team Fortress 2                   🕘 31 hrs 3 mins
 💻 Wallpaper Engine                  🕘 5 hrs 45 mins
-🎮 Mass Effect™: Andromeda           🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
