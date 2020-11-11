@@ -16,9 +16,9 @@ JSON     🕓 0s ░░░░░░░░░░░░░░░░░░░░░
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 39 hrs 32 mins
-🔫 Counter-Strike: Global Offensive  🕘 0 hrs 21 mins
-🎮 Left 4 Dead 2                     🕘 1 hrs 43 mins
+🎮 Team Fortress 2                   🕘 48 hrs 6 mins
+🔫 Counter-Strike: Global Offensive  🕘 2 hrs 58 mins
+🎮 Left 4 Dead 2                     🕘 1 hrs 2 mins
 🎮 Ghostrunner Demo                  🕘 0 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
