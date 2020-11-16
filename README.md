@@ -16,7 +16,7 @@ C          🕓 11m    ▎░░░░░░░░░░░░░░░░░░
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 43 hrs 48 mins
+🎮 Team Fortress 2                   🕘 45 hrs 21 mins
 🔫 Counter-Strike: Global Offensive  🕘 3 hrs 30 mins
 🎮 No Man's Sky                      🕘 0 hrs 17 mins
 ```
