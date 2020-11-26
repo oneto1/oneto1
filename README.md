@@ -16,8 +16,7 @@ Markdown   🕓 5m     ▏░░░░░░░░░░░░░░░░░░
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 22 hrs 47 mins
-🔫 Counter-Strike: Global Offensive  🕘 0 hrs 32 mins
+🎮 Team Fortress 2                   🕘 19 hrs 3 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 No Man's Sky                      🕘 0 hrs 17 mins
 🎮 Tomb Raider                       🕘 3 hrs 27 mins
