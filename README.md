@@ -16,7 +16,7 @@ Other      🕓 3m   ▌░░░░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 60 hrs 29 mins
+🎮 Team Fortress 2                   🕘 65 hrs 39 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
