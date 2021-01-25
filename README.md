@@ -12,11 +12,11 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 57 hrs 46 mins
-🔫 Counter-Strike: Global Offensive  🕘 4 hrs 49 mins
-🚓 Grand Theft Auto V                🕘 5 hrs 11 mins
-🔞 Mirror                            🕘 0 hrs 3 mins
-🎮 NEOMORPH                          🕘 0 hrs 1 mins
+🎮 Team Fortress 2                   🕘 47 hrs 32 mins
+🔫 Counter-Strike: Global Offensive  🕘 5 hrs 53 mins
+🚓 Grand Theft Auto V                🕘 5 hrs 47 mins
+💻 Wallpaper Engine                  🕘 0 hrs 36 mins
+🎮 Life is Strange™                  🕘 0 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
