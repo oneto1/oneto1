@@ -15,10 +15,10 @@ JavaScript 🕓 0s ██▉░░░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 38 hrs 21 mins
-🔫 Counter-Strike: Global Offensive  🕘 6 hrs 43 mins
+🎮 Team Fortress 2                   🕘 30 hrs 4 mins
+🔫 Counter-Strike: Global Offensive  🕘 10 hrs 23 mins
 🚓 Grand Theft Auto V                🕘 5 hrs 47 mins
-💻 Wallpaper Engine                  🕘 0 hrs 36 mins
+💻 Wallpaper Engine                  🕘 0 hrs 41 mins
 🎮 Life is Strange™                  🕘 1 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
