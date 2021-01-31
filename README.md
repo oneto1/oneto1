@@ -15,7 +15,7 @@ JavaScript 🕓 0s ██▉░░░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 37 hrs 29 mins
+🎮 Team Fortress 2                   🕘 42 hrs 4 mins
 🔫 Counter-Strike: Global Offensive  🕘 16 hrs 35 mins
 🚓 Grand Theft Auto V                🕘 5 hrs 47 mins
 💻 Wallpaper Engine                  🕘 0 hrs 41 mins
