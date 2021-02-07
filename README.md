@@ -16,9 +16,9 @@ JSON       🕓 0s    ▎░░░░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 47 hrs 3 mins
-🔫 Counter-Strike: Global Offensive  🕘 21 hrs 30 mins
-🚓 Grand Theft Auto V                🕘 1 hrs 10 mins
+🎮 Team Fortress 2                   🕘 47 hrs 22 mins
+🔫 Counter-Strike: Global Offensive  🕘 23 hrs 20 mins
+🚓 Grand Theft Auto V                🕘 1 hrs 31 mins
 💻 Wallpaper Engine                  🕘 0 hrs 40 mins
 🎮 Life is Strange™                  🕘 1 hrs 34 mins
 ```
