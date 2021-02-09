@@ -13,11 +13,10 @@ Other 🕓 1m ████▎░░░░░░░░░░░░░░░░░
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 56 hrs 22 mins
-🔫 Counter-Strike: Global Offensive  🕘 22 hrs 51 mins
+🎮 Team Fortress 2                   🕘 57 hrs 27 mins
+🔫 Counter-Strike: Global Offensive  🕘 23 hrs 5 mins
 🚓 Grand Theft Auto V                🕘 0 hrs 55 mins
 💻 Wallpaper Engine                  🕘 0 hrs 5 mins
-🎮 Life is Strange™                  🕘 0 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
