@@ -12,8 +12,8 @@ YAML 🕓 19m ██████████████████████
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 63 hrs 22 mins
-🔫 Counter-Strike: Global Offensive  🕘 12 hrs 37 mins
+🎮 Team Fortress 2                   🕘 62 hrs 25 mins
+🔫 Counter-Strike: Global Offensive  🕘 13 hrs 39 mins
 🚓 Grand Theft Auto V                🕘 9 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
