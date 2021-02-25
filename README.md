@@ -12,10 +12,11 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 37 hrs 24 mins
+🎮 Team Fortress 2                   🕘 34 hrs 42 mins
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 5 mins
 🚓 Grand Theft Auto V                🕘 8 hrs 37 mins
-🎮 Dyson Sphere Program              🕘 36 hrs 6 mins
+🎮 Dyson Sphere Program              🕘 37 hrs 38 mins
+🎮 GOAT OF DUTY                      🕘 0 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
