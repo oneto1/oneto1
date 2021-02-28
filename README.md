@@ -12,7 +12,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 44 hrs 26 mins
+🎮 Team Fortress 2                   🕘 43 hrs 46 mins
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 3 mins
 🎮 Dyson Sphere Program              🕘 37 hrs 38 mins
 🎮 GOAT OF DUTY                      🕘 0 hrs 8 mins
