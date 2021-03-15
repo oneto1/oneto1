@@ -12,7 +12,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 89 hrs 25 mins
+🎮 Team Fortress 2                   🕘 84 hrs 16 mins
 💻 Wallpaper Engine                  🕘 0 hrs 35 mins
 🎮 Dyson Sphere Program              🕘 1 hrs 24 mins
 ```
