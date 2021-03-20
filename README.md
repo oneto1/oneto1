@@ -12,7 +12,7 @@ Markdown 🕓 13m ████████████████████�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 69 hrs 55 mins
+🎮 Team Fortress 2                   🕘 63 hrs 24 mins
 🎮 Left 4 Dead 2                     🕘 0 hrs 58 mins
 💻 Wallpaper Engine                  🕘 2 hrs 10 mins
 🎮 Mass Effect™: Andromeda           🕘 2 hrs 23 mins
