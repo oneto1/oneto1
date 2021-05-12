@@ -14,7 +14,7 @@ Properties 🕓 0s    ░░░░░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 49 hrs 7 mins
+🎮 Team Fortress 2                   🕘 47 hrs 33 mins
 🎮 PC Building Simulator             🕘 1 hrs 3 mins
 🎮 CS2D                              🕘 0 hrs 58 mins
 🎮 Team Fortress Classic             🕘 0 hrs 56 mins
