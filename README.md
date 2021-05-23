@@ -3,7 +3,7 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/51d75cccce903a25b1f8cd7ca9d3a329" target="_blank">📊 每周工作报告</a>
 ```text
-Text 🕓 24m ████████████████████████████████████100.0%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
