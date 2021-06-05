@@ -12,8 +12,8 @@ JSON 🕓 0s ░░░░░░░░░░░░░░░░░░░░░░�
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 23 hrs 14 mins
-💻 Wallpaper Engine                  🕘 1 hrs 18 mins
+🎮 Team Fortress 2                   🕘 23 hrs 50 mins
+💻 Wallpaper Engine                  🕘 1 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
