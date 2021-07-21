@@ -12,8 +12,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 46 hrs 55 mins
-🔫 Counter-Strike: Global Offensive  🕘 0 hrs 14 mins
+🎮 Team Fortress 2                   🕘 45 hrs 43 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 The Crew 2                        🕘 1 hrs 4 mins
 ```
