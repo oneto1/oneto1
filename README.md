@@ -14,7 +14,6 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 43 hrs 41 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
-🎮 The Crew 2                        🕘 0 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
