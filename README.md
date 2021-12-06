@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 26 hrs 22 mins
+🎮 Team Fortress 2                   🕘 33 hrs 33 mins
 💻 Wallpaper Engine                  🕘 0 hrs 46 mins
-🎮 Halo Infinite                     🕘 7 hrs 19 mins
+🎮 Halo Infinite                     🕘 10 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
