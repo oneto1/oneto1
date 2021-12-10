@@ -14,7 +14,7 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 33 hrs 33 mins
 💻 Wallpaper Engine                  🕘 0 hrs 46 mins
-🎮 Halo Infinite                     🕘 10 hrs 27 mins
+🎮 Halo Infinite                     🕘 12 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
