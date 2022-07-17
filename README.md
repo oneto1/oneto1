@@ -12,7 +12,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 25 hrs 32 mins
+🎮 Team Fortress 2                   🕘 30 hrs 53 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 🎮 3DMark Demo                       🕘 10 hrs 54 mins
 🎮 3DMark                            🕘 10 hrs 49 mins
