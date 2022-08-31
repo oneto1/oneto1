@@ -12,7 +12,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 51 hrs 48 mins
+🎮 Team Fortress 2                   🕘 48 hrs 47 mins
 🎮 Halo Infinite                     🕘 0 hrs 7 mins
 🎮 3DMark                            🕘 1 hrs 22 mins
 ```
