@@ -12,7 +12,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 64 hrs 33 mins
+🎮 Team Fortress 2                   🕘 61 hrs 6 mins
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 32 mins
 🎮 DDraceNetwork                     🕘 3 hrs 20 mins
 ```
