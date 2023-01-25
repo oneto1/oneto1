@@ -14,7 +14,6 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 16 hrs 46 mins
 💻 Wallpaper Engine                  🕘 0 hrs 28 mins
-🎮 The Witcher 3: Wild Hunt          🕘 0 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
