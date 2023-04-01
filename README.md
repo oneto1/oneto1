@@ -14,6 +14,7 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 35 hrs 6 mins
 🎮 3DMark                            🕘 0 hrs 29 mins
+🎮 Hogwarts Legacy                   🕘 3 hrs 56 mins
 🎮 Bright Memory                     🕘 0 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
