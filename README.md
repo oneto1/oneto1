@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 35 hrs 6 mins
+🎮 Team Fortress 2                   🕘 38 hrs 4 mins
 🎮 3DMark                            🕘 0 hrs 29 mins
-🎮 Hogwarts Legacy                   🕘 3 hrs 56 mins
+🎮 Hogwarts Legacy                   🕘 11 hrs 57 mins
 🎮 Bright Memory                     🕘 0 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
