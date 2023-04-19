@@ -12,7 +12,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 50 hrs 9 mins
+🎮 Team Fortress 2                   🕘 51 hrs 37 mins
 🎮 Hogwarts Legacy                   🕘 8 hrs 32 mins
 🎮 The Witcher 3: Wild Hunt          🕘 0 hrs 11 mins
 🎮 SteamVR Performance Test          🕘 0 hrs 2 mins
