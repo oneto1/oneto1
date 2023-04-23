@@ -12,11 +12,11 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 52 hrs 51 mins
+🎮 Team Fortress 2                   🕘 63 hrs 26 mins
 🎮 Hogwarts Legacy                   🕘 0 hrs 51 mins
-🎮 SteamVR                           🕘 0 hrs 51 mins
+🎮 SteamVR                           🕘 2 hrs 17 mins
+🎮                                   🕘 0 hrs 45 mins
 🎮 SteamVR Performance Test          🕘 0 hrs 36 mins
-🎮 VRChat                            🕘 0 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
