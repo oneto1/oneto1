@@ -12,7 +12,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 48 hrs 4 mins
+🎮 Team Fortress 2                   🕘 50 hrs 7 mins
 🎮 Hogwarts Legacy                   🕘 3 hrs 4 mins
 🎮 SteamVR                           🕘 1 hrs 55 mins
 🎮 SCP: Secret Laboratory            🕘 1 hrs 8 mins
