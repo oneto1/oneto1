@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 46 hrs 38 mins
+🎮 Team Fortress 2                   🕘 45 hrs 26 mins
 🎮 Hogwarts Legacy                   🕘 0 hrs 16 mins
-🎮 SCP: Secret Laboratory            🕘 0 hrs 48 mins
+🎮 SCP: Secret Laboratory            🕘 1 hrs 18 mins
 🎮 Only Up!                          🕘 0 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
