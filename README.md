@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 65 hrs 14 mins
+🎮 Team Fortress 2                   🕘 70 hrs 15 mins
 🎮 Hogwarts Legacy                   🕘 0 hrs 1 mins
-🎮 STAR WARS Jedi: Survivor™         🕘 6 hrs 17 mins
+🎮 STAR WARS Jedi: Survivor™         🕘 3 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
