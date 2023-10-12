@@ -12,9 +12,11 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 35 hrs 13 mins
+🎮 Team Fortress 2                   🕘 32 hrs 59 mins
 🔫 Counter-Strike 2                  🕘 0 hrs 43 mins
 🎮 Hogwarts Legacy                   🕘 0 hrs 40 mins
+🎮 Quantum Knights Demo              🕘 0 hrs 33 mins
+🎮 Ghostrunner 2 Demo                🕘 0 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
