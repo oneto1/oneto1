@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 42 hrs 46 mins
+🎮 Team Fortress 2                   🕘 44 hrs 20 mins
+🔫 Counter-Strike 2                  🕘 5 hrs 6 mins
 🎮 SteamVR                           🕘 2 hrs 20 mins
-🎮 VRChat                            🕘 0 hrs 3 mins
 🎮 Half-Life 2: VR Mod               🕘 0 hrs 32 mins
 🎮 Beat Saber                        🕘 0 hrs 30 mins
 ```
