@@ -12,10 +12,11 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 40 hrs 39 mins
-🔫 Counter-Strike 2                  🕘 2 hrs 17 mins
-🎮 Insurgency: Sandstorm             🕘 3 hrs 55 mins
-🎮 Halo Infinite                     🕘 0 hrs 14 mins
+🎮 Team Fortress 2                   🕘 44 hrs 39 mins
+🔫 Counter-Strike 2                  🕘 2 hrs 21 mins
+🎮 Left 4 Dead 2                     🕘 2 hrs 14 mins
+🎮 Insurgency: Sandstorm             🕘 2 hrs 34 mins
+🎮 Halo Infinite                     🕘 0 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
