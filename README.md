@@ -15,7 +15,7 @@ Still Gathering Statistics...
 🎮 Team Fortress 2                   🕘 61 hrs 6 mins
 🔫 Counter-Strike 2                  🕘 2 hrs 21 mins
 🎮 Left 4 Dead 2                     🕘 4 hrs 21 mins
-🎮 Insurgency: Sandstorm             🕘 2 hrs 34 mins
+🎮 Insurgency: Sandstorm             🕘 4 hrs 31 mins
 🎮 Halo Infinite                     🕘 0 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
