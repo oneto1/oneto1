@@ -14,7 +14,7 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 44 hrs 6 mins
 🔫 Counter-Strike 2                  🕘 10 hrs 37 mins
-🎮 Insurgency: Sandstorm             🕘 38 hrs 9 mins
+🎮 Insurgency: Sandstorm             🕘 36 hrs 51 mins
 🚓 Grand Theft Auto V                🕘 5 hrs 48 mins
 🎮 3DMark                            🕘 0 hrs 8 mins
 ```
