@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 44 hrs 6 mins
+🎮 Team Fortress 2                   🕘 42 hrs 54 mins
 🔫 Counter-Strike 2                  🕘 10 hrs 37 mins
-🎮 Insurgency: Sandstorm             🕘 36 hrs 51 mins
+🎮 Insurgency: Sandstorm             🕘 33 hrs 43 mins
 🚓 Grand Theft Auto V                🕘 5 hrs 48 mins
 🎮 3DMark                            🕘 0 hrs 8 mins
 ```
