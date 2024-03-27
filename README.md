@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 13 hrs 42 mins
+🎮 Team Fortress 2                   🕘 13 hrs 54 mins
 🔫 Counter-Strike 2                  🕘 3 hrs 56 mins
-🎮 HELLDIVERS™ 2                     🕘 67 hrs 3 mins
+🎮 HELLDIVERS™ 2                     🕘 62 hrs 34 mins
 🎮 Insurgency: Sandstorm             🕘 0 hrs 18 mins
 🎮 Portal: Prelude RTX               🕘 0 hrs 11 mins
 ```
