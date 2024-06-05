@@ -12,8 +12,8 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 34 hrs 29 mins
-🎮 HELLDIVERS™ 2                     🕘 8 hrs 39 mins
+🎮 Team Fortress 2                   🕘 38 hrs 47 mins
+🎮 HELLDIVERS™ 2                     🕘 8 hrs 17 mins
 🎮 Insurgency: Sandstorm             🕘 1 hrs 8 mins
 🎮 OBS Studio                        🕘 29 hrs 30 mins
 ```
