@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 38 hrs 42 mins
-🎮 HELLDIVERS™ 2                     🕘 6 hrs 53 mins
-🎮 OBS Studio                        🕘 30 hrs 40 mins
+🎮 Team Fortress 2                   🕘 37 hrs 28 mins
+🎮 HELLDIVERS™ 2                     🕘 7 hrs 38 mins
+🎮 OBS Studio                        🕘 27 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
