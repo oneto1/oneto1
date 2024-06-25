@@ -12,11 +12,11 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 25 hrs 41 mins
-🎮 HELLDIVERS™ 2                     🕘 9 hrs 57 mins
+🎮 Team Fortress 2                   🕘 22 hrs 59 mins
+🎮 HELLDIVERS™ 2                     🕘 10 hrs 20 mins
 🎮 Insurgency: Sandstorm             🕘 7 hrs 54 mins
 🎮 OBS Studio                        🕘 5 hrs 25 mins
-🎮 Banana                            🕘 9 hrs 43 mins
+🎮 Banana                            🕘 10 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
