@@ -12,8 +12,8 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 29 hrs 27 mins
-🎮 HELLDIVERS™ 2                     🕘 18 hrs 33 mins
+🎮 Team Fortress 2                   🕘 29 hrs 34 mins
+🎮 HELLDIVERS™ 2                     🕘 21 hrs 12 mins
 🎮 Insurgency: Sandstorm             🕘 1 hrs 40 mins
 🎮 Left 4 Dead 2                     🕘 1 hrs 43 mins
 🎮 Euro Truck Simulator 2            🕘 1 hrs 5 mins
