@@ -13,8 +13,8 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Team Fortress 2                   🕘 24 hrs 36 mins
-🎮 HELLDIVERS™ 2                     🕘 4 hrs 36 mins
-🎮 Black Myth: Wukong                🕘 6 hrs 26 mins
+🎮 HELLDIVERS™ 2                     🕘 2 hrs 50 mins
+🎮 Black Myth: Wukong                🕘 12 hrs 5 mins
 🎮                                   🕘 0 hrs 19 mins
 🎮 Black Myth: Wukong Benchmark Tool 🕘 0 hrs 13 mins
 ```
