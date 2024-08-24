@@ -12,10 +12,10 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 23 hrs 42 mins
-🎮 HELLDIVERS™ 2                     🕘 2 hrs 4 mins
-🎮 Black Myth: Wukong                🕘 14 hrs 37 mins
-🎮                                   🕘 0 hrs 19 mins
+🎮 Team Fortress 2                   🕘 23 hrs 15 mins
+🎮 HELLDIVERS™ 2                     🕘 0 hrs 55 mins
+🎮 Black Myth: Wukong                🕘 23 hrs 49 mins
+🎮 Deadlock                          🕘 0 hrs 19 mins
 🎮 Black Myth: Wukong Benchmark Tool 🕘 0 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
