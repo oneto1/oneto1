@@ -14,7 +14,7 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 11 hrs 8 mins
 🎮 HELLDIVERS™ 2                     🕘 0 hrs 20 mins
-🎮 Black Myth: Wukong                🕘 33 hrs 56 mins
+🎮 Black Myth: Wukong                🕘 31 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
