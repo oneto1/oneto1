@@ -15,7 +15,7 @@ Still Gathering Statistics...
 🎮 Team Fortress 2                   🕘 12 hrs 34 mins
 🎮 HELLDIVERS™ 2                     🕘 0 hrs 47 mins
 🎮 Insurgency: Sandstorm             🕘 0 hrs 17 mins
-🎮 Black Myth: Wukong                🕘 15 hrs 17 mins
+🎮 Black Myth: Wukong                🕘 14 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
