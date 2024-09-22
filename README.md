@@ -12,9 +12,8 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 6 hrs 56 mins
-🎮 HELLDIVERS™ 2                     🕘 2 hrs 56 mins
-🎮 Insurgency: Sandstorm             🕘 0 hrs 5 mins
+🎮 Team Fortress 2                   🕘 7 hrs 19 mins
+🎮 HELLDIVERS™ 2                     🕘 4 hrs 17 mins
 🎮 Black Myth: Wukong                🕘 12 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
