@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 23 hrs 37 mins
+🎮 Team Fortress 2                   🕘 19 hrs 3 mins
 🔫 Counter-Strike 2                  🕘 1 hrs 41 mins
-🎮 HELLDIVERS™ 2                     🕘 11 hrs 1 mins
+🎮 HELLDIVERS™ 2                     🕘 11 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
