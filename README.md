@@ -14,7 +14,6 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 9 hrs 42 mins
 🎮 HELLDIVERS™ 2                     🕘 3 hrs 15 mins
-🎮 3DMark                            🕘 2 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
