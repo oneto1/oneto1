@@ -12,10 +12,11 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 9 hrs 2 mins
-🎮 HELLDIVERS™ 2                     🕘 1 hrs 27 mins
-🎮 Spiral Knights                    🕘 0 hrs 9 mins
-🎮 Balatro                           🕘 0 hrs 26 mins
+🎮 Team Fortress 2                   🕘 4 hrs 23 mins
+🎮 HELLDIVERS™ 2                     🕘 1 hrs 55 mins
+🎮 Slay the Spire                    🕘 0 hrs 45 mins
+🎮 Balatro                           🕘 0 hrs 37 mins
+🎮 Celeste                           🕘 0 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
