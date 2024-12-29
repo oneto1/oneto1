@@ -12,10 +12,10 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 2 hrs 31 mins
-🎮 HELLDIVERS™ 2                     🕘 12 hrs 58 mins
+🎮 Team Fortress 2                   🕘 1 hrs 53 mins
+🎮 HELLDIVERS™ 2                     🕘 10 hrs 29 mins
+🎮 Left 4 Dead 2                     🕘 0 hrs 1 mins
 🎮 Black Myth: Wukong                🕘 0 hrs 35 mins
-🎮 Balatro                           🕘 1 hrs 19 mins
 🎮 Space Crew: Legendary Edition     🕘 0 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
