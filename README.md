@@ -12,11 +12,10 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 24 hrs 44 mins
-🎮 HELLDIVERS™ 2                     🕘 9 hrs 2 mins
-🎮 Left 4 Dead 2                     🕘 0 hrs 12 mins
-🎮 Balatro                           🕘 0 hrs 7 mins
-🎮 Red Dead Redemption 2             🕘 2 hrs 23 mins
+🎮 Team Fortress 2                   🕘 23 hrs 12 mins
+🎮 HELLDIVERS™ 2                     🕘 8 hrs 56 mins
+🎮 Red Dead Redemption 2             🕘 0 hrs 36 mins
+🎮 Celeste                           🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
