@@ -14,7 +14,8 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 12 hrs 24 mins
 🔫 Counter-Strike 2                  🕘 0 hrs 1 mins
-🎮 HELLDIVERS™ 2                     🕘 13 hrs 21 mins
+🎮 HELLDIVERS™ 2                     🕘 13 hrs 20 mins
+🎮 Insurgency: Sandstorm             🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
