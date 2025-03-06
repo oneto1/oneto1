@@ -14,9 +14,9 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 13 hrs 35 mins
 🔫 Counter-Strike 2                  🕘 1 hrs 33 mins
-🎮 HELLDIVERS™ 2                     🕘 15 hrs 25 mins
-💻 Wallpaper Engine                  🕘 0 hrs 45 mins
-🎮 Red Dead Redemption 2             🕘 0 hrs 11 mins
+🎮 HELLDIVERS™ 2                     🕘 16 hrs 8 mins
+💻 Wallpaper Engine                  🕘 1 hrs 21 mins
+🎮 Red Dead Redemption 2             🕘 1 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
