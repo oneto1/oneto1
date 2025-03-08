@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 11 hrs 25 mins
+🎮 Team Fortress 2                   🕘 8 hrs 0 mins
 🔫 Counter-Strike 2                  🕘 1 hrs 33 mins
-🎮 HELLDIVERS™ 2                     🕘 16 hrs 18 mins
+🎮 HELLDIVERS™ 2                     🕘 17 hrs 18 mins
 💻 Wallpaper Engine                  🕘 1 hrs 21 mins
 🎮 Red Dead Redemption 2             🕘 1 hrs 9 mins
 ```
