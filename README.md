@@ -12,10 +12,10 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 21 hrs 3 mins
-🔫 Counter-Strike 2                  🕘 1 hrs 32 mins
-🎮 HELLDIVERS™ 2                     🕘 12 hrs 35 mins
-🎮 Balatro                           🕘 6 hrs 18 mins
+🎮 Team Fortress 2                   🕘 20 hrs 59 mins
+🎮 HELLDIVERS™ 2                     🕘 12 hrs 29 mins
+🎮 No Man's Sky                      🕘 5 hrs 45 mins
+🎮 Balatro                           🕘 11 hrs 22 mins
 🎮 Red Dead Redemption 2             🕘 2 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
