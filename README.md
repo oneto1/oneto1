@@ -12,11 +12,11 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 9 hrs 49 mins
-🎮 HELLDIVERS™ 2                     🕘 12 hrs 44 mins
+🎮 Team Fortress 2                   🕘 6 hrs 26 mins
+🎮 HELLDIVERS™ 2                     🕘 11 hrs 48 mins
 🎮 No Man's Sky                      🕘 10 hrs 55 mins
-🎮 Balatro                           🕘 11 hrs 22 mins
 🎮 Fairy Biography                   🕘 9 hrs 12 mins
+🎮 Disco Elysium                     🕘 8 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
