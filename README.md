@@ -13,7 +13,7 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Team Fortress 2                   🕘 7 hrs 51 mins
-🎮 HELLDIVERS™ 2                     🕘 11 hrs 44 mins
+🎮 HELLDIVERS™ 2                     🕘 10 hrs 53 mins
 💻 Wallpaper Engine                  🕘 2 hrs 1 mins
 🎮 3DMark                            🕘 0 hrs 15 mins
 ```
