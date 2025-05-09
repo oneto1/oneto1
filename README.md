@@ -13,7 +13,7 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
 🎮 Team Fortress 2                   🕘 8 hrs 55 mins
-🎮 HELLDIVERS™ 2                     🕘 9 hrs 10 mins
+🎮 HELLDIVERS™ 2                     🕘 9 hrs 38 mins
 🎮 Slay the Spire                    🕘 9 hrs 44 mins
 🎮 Red Dead Redemption 2             🕘 1 hrs 15 mins
 🎮 Celeste                           🕘 1 hrs 22 mins
