@@ -12,9 +12,8 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 42 hrs 45 mins
-🎮 HELLDIVERS™ 2                     🕘 10 hrs 21 mins
-🎮 Insurgency: Sandstorm             🕘 0 hrs 1 mins
+🎮 Team Fortress 2                   🕘 44 hrs 50 mins
+🎮 HELLDIVERS™ 2                     🕘 12 hrs 17 mins
 🎮 Slay the Spire                    🕘 0 hrs 1 mins
 🎮 Vampire Survivors                 🕘 3 hrs 7 mins
 ```
