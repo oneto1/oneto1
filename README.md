@@ -12,9 +12,9 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 49 hrs 24 mins
-🎮 HELLDIVERS™ 2                     🕘 12 hrs 16 mins
-🎮 Slay the Spire                    🕘 0 hrs 1 mins
+🎮 Team Fortress 2                   🕘 55 hrs 37 mins
+🎮 HELLDIVERS™ 2                     🕘 12 hrs 3 mins
+💻 Wallpaper Engine                  🕘 1 hrs 40 mins
 🎮 嗜血印 Bloody Spell                  🕘 3 hrs 31 mins
 🎮 Vampire Survivors                 🕘 3 hrs 7 mins
 ```
