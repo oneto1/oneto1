@@ -12,8 +12,8 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 55 hrs 37 mins
-🎮 HELLDIVERS™ 2                     🕘 12 hrs 3 mins
+🎮 Team Fortress 2                   🕘 57 hrs 27 mins
+🎮 HELLDIVERS™ 2                     🕘 11 hrs 10 mins
 💻 Wallpaper Engine                  🕘 1 hrs 40 mins
 🎮 嗜血印 Bloody Spell                  🕘 3 hrs 31 mins
 🎮 Vampire Survivors                 🕘 3 hrs 7 mins
