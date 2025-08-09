@@ -12,9 +12,10 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 19 hrs 38 mins
-🎮 HELLDIVERS™ 2                     🕘 1 hrs 52 mins
+🎮 Team Fortress 2                   🕘 18 hrs 48 mins
+🎮 HELLDIVERS™ 2                     🕘 2 hrs 0 mins
 💻 Wallpaper Engine                  🕘 1 hrs 40 mins
+🎮 Battlefield™ 6 Open Beta          🕘 0 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
