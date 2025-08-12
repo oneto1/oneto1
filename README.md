@@ -12,7 +12,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 14 hrs 25 mins
+🎮 Team Fortress 2                   🕘 12 hrs 19 mins
 🎮 HELLDIVERS™ 2                     🕘 1 hrs 37 mins
 🎮 Battlefield™ 6 Open Beta          🕘 0 hrs 14 mins
 ```
