@@ -14,7 +14,7 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 3 hrs 23 mins
 🎮 HELLDIVERS™ 2                     🕘 3 hrs 1 mins
-🎮 Stellar Blade™                    🕘 1 hrs 10 mins
+🎮 Stellar Blade™                    🕘 2 hrs 13 mins
 🎮 Stellar Blade™ Demo               🕘 0 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
