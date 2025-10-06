@@ -12,8 +12,8 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 3 hrs 36 mins
-🎮 HELLDIVERS™ 2                     🕘 2 hrs 21 mins
+🎮 Team Fortress 2                   🕘 2 hrs 9 mins
+🎮 HELLDIVERS™ 2                     🕘 0 hrs 42 mins
 🎮 Stellar Blade™                    🕘 17 hrs 26 mins
 🎮 Stellar Blade™ Demo               🕘 0 hrs 52 mins
 ```
