@@ -14,6 +14,7 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 2 hrs 43 mins
 🎮 HELLDIVERS™ 2                     🕘 1 hrs 5 mins
+💻 Wallpaper Engine                  🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
