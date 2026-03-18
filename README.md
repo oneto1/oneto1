@@ -12,7 +12,7 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 14 hrs 53 mins
+🎮 Team Fortress 2                   🕘 16 hrs 30 mins
 🎮 Slay the Spire                    🕘 7 hrs 31 mins
 🎮 Team Fortress 2 Classified        🕘 0 hrs 1 mins
 ```
