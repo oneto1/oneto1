@@ -14,7 +14,7 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 17 hrs 7 mins
 🎮 HELLDIVERS™ 2                     🕘 0 hrs 1 mins
-🎮 Slay the Spire                    🕘 7 hrs 31 mins
+🎮 Slay the Spire                    🕘 5 hrs 24 mins
 🎮 Team Fortress 2 Classified        🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
