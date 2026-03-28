@@ -12,8 +12,8 @@ Still Gathering Statistics...
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/3b0d2519577a02ab95e5d0d7ca4fa814" target="_blank">🎮 最近我在玩…</a>
 ```text
-🎮 Team Fortress 2                   🕘 13 hrs 8 mins
-🎮 HELLDIVERS™ 2                     🕘 0 hrs 1 mins
+🎮 Team Fortress 2                   🕘 11 hrs 39 mins
+🎮 HELLDIVERS™ 2                     🕘 3 hrs 13 mins
 🎮 Slay the Spire                    🕘 1 hrs 48 mins
 🎮 Team Fortress 2 Classified        🕘 0 hrs 1 mins
 ```
