@@ -14,7 +14,7 @@ Still Gathering Statistics...
 ```text
 🎮 Team Fortress 2                   🕘 0 hrs 3 mins
 🎮 HELLDIVERS™ 2                     🕘 0 hrs 1 mins
-🎮 Phantom Blade Zero                🕘 30 hrs 7 mins
+🎮 Phantom Blade Zero                🕘 29 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
